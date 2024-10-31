@@ -6,6 +6,7 @@ import resultsView from './views/resultsView.js';
 import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/addRecipeView.js';
+import { Fraction } from 'fractional';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
